@@ -1,0 +1,152 @@
+body {
+    
+    margin: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', seri
+    
+    
+}
+
+h1 { font-size: 360%;
+    margin: 0;
+    
+}
+h2{font-size: 300%;
+    margin: 30px;
+ text-align: center;
+ padding-right: 70px;
+}
+
+section { margin: 10px;
+    margin-top: 10px;
+    background-color: #FDD692;
+    border-radius: 40px;
+    border-style: solid;
+    border-color:#F2542D ;
+
+}
+
+h3{font-size: 170%;}
+
+#vitanina{
+    border-style: inset;
+    border-style: solid;
+    border-color:#F2542D ;
+    border-radius: px;
+    border-color:#b08968 ;
+    padding: 8px;
+    background-color: #F2542D;
+    text-align: center;
+    color: white;
+}
+#cardapio {
+    
+    margin: 0px;
+    padding: 16px;
+    background-color: #FDD692;
+    color: #562C2C;
+    
+}
+
+#abacate { 
+    
+border: 3px inset #FDD692;
+padding: 20px;
+margin: 20px;
+display: inline-block;
+border-radius: 10%;
+width: 500px;
+}
+
+    
+
+#açai{
+    
+    border: 3px outset #FDD692;
+    padding: 20px;
+    padding-right: px;
+    margin-left: 100px;
+    display: inline-block;
+    border-radius: 10%;
+    width: 500px;
+}
+
+#banana{
+    border: 3px inset #FDD692;
+padding: 20px;
+margin: 20px;
+display: inline-block;
+border-radius: 10%;
+width: 500px;
+
+
+}
+
+#morango{
+    
+    border: 3px outset #FDD692;
+    padding: 20px;
+    padding-right: px;
+    margin-left: 100px;
+    display: inline-block;
+    border-radius: 10%;
+    width: 500px;
+
+
+}
+
+#pessego{ border: 3px inset #FDD692;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 10%;
+    width: 500px;
+
+
+
+}
+
+#roma{
+    
+    border: 3px outset #FDD692;
+    padding: 20px;
+    padding-right: px;
+    margin-left: 100px;
+    display: inline-block;
+    border-radius: 10%;
+    width: 500px;
+    
+}
+
+
+#vitaminas {
+    margin-top: 32px;
+    margin-left: 64px;
+    background-color: #FDD692;
+    color: #562C2C;
+    
+}
+
+img {width:150px;
+    height: 150px;
+}
+
+#lactose{ text-align: center;
+
+
+
+}
+
+#rodape {
+    color: white;
+    background-color:#F2542D ;
+    text-align:center;
+    padding: 8px;
+}
+#lactoses {
+    width: 600px;
+    height: 300px;
+
+
+}
+
+
